@@ -1,0 +1,10 @@
+
+# Scheduller Git Pull
+clone.bat
+launch_tests.bat
+poll_scm.bat
+
+changes.txt
+expected_for_no_changes.txt
+last_pull.txt
+log.txt
