@@ -2,7 +2,7 @@
 
 Files in this repository are requirement for scheduller git pull in Windows. 
 
-Please refer to this [page](https://laksmisetiawati.github.io/articles/cron-job-git-pull-windows.html) (temporary in Indonesian. will be translated soon) for the tutorial. The tutorial temporary used Gitlab because it's only tested using Gitlab.
+Please refer to this [page](https://medium.com/@laksmise/cron-job-git-pull-in-windows-1ca5dedfd7f3) (temporary in Indonesian. will be translated soon) for the tutorial. The tutorial temporary used Gitlab because it's only tested using Gitlab.
 
 Clone or download them and place them in your project path. For example **`C:\xampp\htdocs\windows-git-pull-cron-job`**.
 
